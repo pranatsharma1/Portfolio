@@ -11,7 +11,7 @@ html{
     scroll-behavior: smooth;
 }
  body{
-      background-image: url("B13.JPG");
+      background-image: url("B13.jpg");
                     color:white;              
 }
 header{
@@ -20,7 +20,7 @@ header{
 .Top{
     display: grid;
     max-width:100%;
-    background-image: url("B5.JPG");
+    background-image: url("B5.jpg");
       color:yellow;
 }
 
